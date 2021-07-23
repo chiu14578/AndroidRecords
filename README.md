@@ -12,3 +12,9 @@
 
 [Android 字符串及字典混淆开源实现](https://mp.weixin.qq.com/s/SRv1Oar87w1iKuDXS4oaew?)
 
+
+
+#### 2.模块化maven相关资料
+
+[Android：超详细的本地搭建maven私服](https://www.jianshu.com/p/52f4590abe33)
+
